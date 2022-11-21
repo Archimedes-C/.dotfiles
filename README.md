@@ -4,3 +4,5 @@ These are my dotfile configuration files for different software in Bash.
 This is my custom .vimrc configuration for Vim.
 ## .bashrc
 This is my custom .bashrc configuration for Bash.
+## Cleanup
+This cleans the files so that it can be run with a clean slate.
